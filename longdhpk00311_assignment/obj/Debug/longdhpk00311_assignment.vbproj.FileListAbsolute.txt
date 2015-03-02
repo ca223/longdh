@@ -1,0 +1,16 @@
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\bin\Debug\longdhpk00311_assignment.exe.config
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\bin\Debug\longdhpk00311_assignment.exe
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\bin\Debug\longdhpk00311_assignment.pdb
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\bin\Debug\longdhpk00311_assignment.xml
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.frmdangnhap.resources
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.frmhethong.resources
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.Resources.resources
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.vbproj.GenerateResource.Cache
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.exe
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.xml
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.pdb
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.frmsanpham.resources
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.frmhoadon.resources
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.frmkhachhang.resources
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.frmloaisanpham.resources
+c:\users\administrator.dell-pc\documents\visual studio 2013\Projects\longdhpk00311_assignment\longdhpk00311_assignment\obj\Debug\longdhpk00311_assignment.frmchitiethd.resources
